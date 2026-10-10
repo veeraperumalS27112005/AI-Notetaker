@@ -1,0 +1,8 @@
+customtkinter==5.2.2
+sounddevice==0.5.5
+scipy==1.17.1
+openai-whisper==20250625
+numpy
+google-genai
+argostranslate==1.11.0
+deep-translator
